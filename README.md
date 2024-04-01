@@ -1,0 +1,2 @@
+The project aim to forecast the Oscar winners among actors and actresses. Beginning with the scraping of data from 20,000 performers and their respective filmographies, employing tools like Beautiful Soup, then proceed to data cleaning, processing, and visualization. The pivotal stage involves the implementation of advanced machine learning algorithms utilizing Scikit-learn, coupled with cross-validation techniques, to predict and test model accuracy.
+Remarkably, the machine learning models achieved an impressive 80% accuracy rate in predicting Oscar winners.
